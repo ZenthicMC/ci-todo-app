@@ -4,7 +4,7 @@
 # Teknologi
 > HTML
 >
-> CSS
+> CSS (Bootstrap)
 >
 > PHP (CodeIgniter4)
 
